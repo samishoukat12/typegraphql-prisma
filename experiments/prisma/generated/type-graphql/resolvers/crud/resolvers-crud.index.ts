@@ -1,9 +1,0 @@
-export { CategoryCrudResolver } from "./Category/CategoryCrudResolver";
-export { CreatorCrudResolver } from "./Creator/CreatorCrudResolver";
-export { DirectorCrudResolver } from "./Director/DirectorCrudResolver";
-export { MainUserCrudResolver } from "./MainUser/MainUserCrudResolver";
-export { MovieCrudResolver } from "./Movie/MovieCrudResolver";
-export { NativeTypeModelCrudResolver } from "./NativeTypeModel/NativeTypeModelCrudResolver";
-export { PatientCrudResolver } from "./Patient/PatientCrudResolver";
-export { PostCrudResolver } from "./Post/PostCrudResolver";
-export { ProblemCrudResolver } from "./Problem/ProblemCrudResolver";
